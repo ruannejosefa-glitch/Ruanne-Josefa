@@ -265,58 +265,33 @@ Alguns dos projetos disponíveis atualmente no meu GitHub.
 <div align="center">
 
 <a href="https://github.com/ruannejosefa-glitch/ruanne-josefa-portfolio">
-<img src="https://img.shields.io/badge/PORTFÓLIO-Ruanne%20Josefa-07111F?style=for-the-badge&logo=github&logoColor=16C7B7" alt="Projeto Ruanne Josefa Portfolio">
+<img
+  src="https://img.shields.io/badge/PORTFÓLIO-RUANNE%20JOSEFA-07111F?style=for-the-badge&logo=github&logoColor=16C7B7"
+  alt="Portfólio Ruanne Josefa"
+/>
 </a>
 
 <a href="https://github.com/ruannejosefa-glitch/ruanne-portfolio-completo">
-<img src="https://img.shields.io/badge/PORTFÓLIO-COMPLETO-07111F?style=for-the-badge&logo=github&logoColor=7C6AFF" alt="Projeto Ruanne Portfolio Completo">
+<img
+  src="https://img.shields.io/badge/PORTFÓLIO-COMPLETO-07111F?style=for-the-badge&logo=github&logoColor=7C6AFF"
+  alt="Portfólio completo"
+/>
 </a>
 
 <a href="https://github.com/ruannejosefa-glitch/Ruanne-Josefa">
-<img src="https://img.shields.io/badge/PERFIL-GITHUB-07111F?style=for-the-badge&logo=github&logoColor=16C7B7" alt="Repositório de perfil Ruanne Josefa">
+<img
+  src="https://img.shields.io/badge/PERFIL-GITHUB-07111F?style=for-the-badge&logo=github&logoColor=16C7B7"
+  alt="Perfil GitHub"
+/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/ruannejosefa-glitch?tab=repositories">
-<img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSITÓRIOS-07111F?style=for-the-badge&logo=github&logoColor=16C7B7" alt="Ver todos os repositórios">
-</a>
-
-</div>
-
-<a href="https://github.com/ruannejosefa-glitch/ruanne-portfolio-completo">
-
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=ruannejosefa-glitch&repo=ruanne-portfolio-completo&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF&hide_border=true"
-alt="Projeto Ruanne Portfolio Completo"
+  src="https://img.shields.io/badge/VER%20TODOS%20OS%20REPOSITÓRIOS-07111F?style=for-the-badge&logo=github&logoColor=16C7B7"
+  alt="Ver todos os repositórios"
 />
-
-</a>
-
-<br>
-
-<a href="https://github.com/ruannejosefa-glitch/Ruanne-Josefa">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=ruannejosefa-glitch&repo=Ruanne-Josefa&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF&hide_border=true"
-alt="Repositório de perfil Ruanne Josefa"
-/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/ruannejosefa-glitch?tab=repositories">
-
-<img
-src="https://img.shields.io/badge/VER_TODOS_OS_REPOSITÓRIOS-07111F?style=for-the-badge&logo=github&logoColor=16C7B7"
-alt="Ver todos os repositórios"
-/>
-
 </a>
 
 </div>
@@ -396,16 +371,23 @@ Desenvolver tecnologia considerando pessoas, contexto e propósito.
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=ruannejosefa-glitch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF"
-height="180"
-alt="Estatísticas do GitHub"
+  src="https://img.shields.io/github/followers/ruannejosefa-glitch?label=SEGUIDORES&style=for-the-badge&logo=github&logoColor=16C7B7&labelColor=07111F&color=07111F"
+  alt="Seguidores"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruannejosefa-glitch&layout=compact&langs_count=8&hide_border=true&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF"
-height="180"
-alt="Linguagens mais utilizadas"
+  src="https://img.shields.io/github/stars/ruannejosefa-glitch?label=ESTRELAS&style=for-the-badge&logo=github&logoColor=7C6AFF&labelColor=07111F&color=07111F"
+  alt="Estrelas"
 />
+
+<br><br>
+
+<a href="https://github.com/ruannejosefa-glitch?tab=repositories">
+<img
+  src="https://img.shields.io/badge/EXPLORAR%20MEUS%20REPOSITÓRIOS-07111F?style=for-the-badge&logo=github&logoColor=16C7B7"
+  alt="Explorar meus repositórios"
+/>
+</a>
 
 </div>
 
@@ -428,17 +410,22 @@ alt="Sequência de contribuições"
 
 <div align="center">
 
-<a href="https://github.com/ruannejosefa-glitch">
+<a href="https://github.com/ruannejosefa-glitch?tab=overview">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ruannejosefa-glitch&bg_color=07111F&color=16C7B7&line=16C7B7&point=7C6AFF&area=true&hide_border=true"
-  width="100%"
-  alt="Gráfico de atividade no GitHub"
-/>
+<img src="https://img.shields.io/badge/VER_ATIVIDADE_NO_GITHUB-07111F?style=for-the-badge&logo=github&logoColor=16C7B7" alt="Ver atividade no GitHub">
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/ruannejosefa-glitch?tab=overview">
+
+<img src="https://img.shields.io/badge/CONTRIBUIÇÕES-EXPLORAR_PERFIL-07111F?style=for-the-badge&logo=github&logoColor=7C6AFF" alt="Explorar contribuições">
 
 </a>
 
 </div>
+
 ---
 
 # ✦ Conquistas
