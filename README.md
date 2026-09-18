@@ -1,64 +1,94 @@
 <div align="center">
 
-<!-- SYSTEM BOOT BANNER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:00ff9d&height=180&section=header&text=SYSTEM%20ONLINE&fontSize=48&fontColor=00ff9d&animation=fadeIn&fontAlignY=38&desc=RUANNE%20JOSEFA%20%7C%20TECH%20%26%20INNOVATION&descAlignY=58&descSize=16&descColor=ffffff"/>
+<!--                         MAIN BANNER                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0B2533,75:123B4A,100:7C6AFF&height=230&section=header&text=RUANNE%20JOSEFA&fontSize=48&fontColor=E8F1F5&fontAlignY=38&animation=fadeIn&desc=CODE%20%E2%80%A2%20DATA%20%E2%80%A2%20INNOVATION%20%E2%80%A2%20IMPACT&descAlignY=58&descSize=15&descColor=16C7B7"/>
 
 <br>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING -->
 
-<a href="https://github.com/SEU_USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Initializing+RuanneOS...;Software+%7C+Data+%7C+Innovation;JavaScript+%7C+Python+%7C+HTML+%7C+CSS;Building+technology+with+purpose.;System+ready.+Let's+build." alt="Typing Animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=16C7B7&center=true&vCenter=true&width=850&lines=%5B+INITIALIZING+RUANNE.OS+%5D;Software+%7C+Data+%7C+Innovation;Turning+problems+into+technology;Learning.+Building.+Iterating.;System+ready." alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/FOCUS-TECHNOLOGY%20%26%20INNOVATION-16C7B7?style=for-the-badge&labelColor=07111F"/>
 
-<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=FOLLOWERS&style=for-the-badge&color=111827&labelColor=0d1117" alt="Followers"/>
-
-<img src="https://img.shields.io/github/stars/SEU_USUARIO?label=STARS&style=for-the-badge&color=111827&labelColor=0d1117" alt="Stars"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-7C6AFF?style=for-the-badge&labelColor=07111F"/>
 
 </div>
 
 ---
 
-## `> SYSTEM.IDENTITY`
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                 R U A N N E . O S                            │
+│                                                              │
+│       intelligence  ×  code  ×  creativity  ×  impact       │
+│                                                              │
+│                 CONNECTION ESTABLISHED                       │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+## `01 // ABOUT_ME`
 
 <table>
 <tr>
-<td width="55%">
+<td width="58%" valign="top">
 
-### 👩‍💻 Sobre Mim
+### Olá, eu sou a Ruanne 👋
 
-```text
-NAME        : Ruanne Josefa
-ROLE        : Technology & Innovation
-FOCUS       : Software • Data • AI • Impact
-LOCATION    : Brazil
-STATUS      : Building the future
-```
+Sou uma estudante apaixonada por **tecnologia, inovação e construção de soluções**.
 
-Sou uma estudante e entusiasta de **tecnologia, inovação e desenvolvimento de soluções**.
+Minha trajetória começou muito antes de escrever código. Ela nasceu da curiosidade de entender problemas, encontrar possibilidades e transformar ideias em algo que possa ser utilizado por outras pessoas.
 
-Minha trajetória conecta **programação, dados, projetos, educação e impacto social**, buscando transformar problemas reais em soluções que possam ser utilizadas por pessoas e organizações.
+Hoje, estou direcionando essa curiosidade para a tecnologia, explorando **desenvolvimento web, Python, dados, inteligência artificial e construção de produtos**.
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, Python, dados e construção de produtos tecnológicos.
+Tenho interesse especial na interseção entre:
 
-> **My goal isn't only to write code.**
->
-> **It's to understand problems, design solutions and build systems that matter.**
+`TECHNOLOGY` + `DATA` + `INNOVATION` + `SOCIAL IMPACT`
+
+Meu objetivo não é apenas aprender ferramentas.
+
+**Quero aprender a construir.**
 
 </td>
 
-<td width="45%" align="center">
+<td width="42%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9&ring_color=00ff9d" width="100%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" width="100%"/>
+```text
+╭─────────────────────────────╮
+│       PROFILE.DAT           │
+├─────────────────────────────┤
+│                             │
+│  NAME                       │
+│  └─ Ruanne Josefa           │
+│                             │
+│  DOMAIN                     │
+│  └─ Technology              │
+│                             │
+│  INTERESTS                  │
+│  ├─ Software                │
+│  ├─ Data                    │
+│  ├─ AI                      │
+│  ├─ Innovation              │
+│  └─ Impact                  │
+│                             │
+│  CURRENT_MODE               │
+│  └─ LEARNING + BUILDING     │
+│                             │
+╰─────────────────────────────╯
+```
 
 </td>
 </tr>
@@ -66,25 +96,23 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, Python
 
 ---
 
-## `> TECH_STACK --scan`
+## `02 // TECH_STACK`
 
 <div align="center">
 
-### ⚡ Core Technologies
+### `CORE TECHNOLOGIES`
 
-<p>
+<br>
 
 <img src="https://skillicons.dev/icons?i=javascript,python,html,css&theme=dark" />
 
-</p>
+<br><br>
 
-### 🧠 Currently Exploring
+### `TOOLS & ENVIRONMENT`
 
-<p>
+<br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-
-</p>
 
 </div>
 
@@ -94,44 +122,40 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, Python
 <tr>
 <td align="center" width="25%">
 
-### `01`
+**JAVASCRIPT**
 
-**JavaScript**
-
-Interactive interfaces
-Logic & functionality
+Web
+Logic
+Interaction
 
 </td>
 
 <td align="center" width="25%">
 
-### `02`
-
-**Python**
+**PYTHON**
 
 Automation
-Data & problem solving
+Data
+Problem Solving
 
 </td>
 
 <td align="center" width="25%">
 
-### `03`
+**HTML + CSS**
 
-**HTML / CSS**
-
-Responsive interfaces
-UI & visual systems
+Structure
+Interfaces
+Responsive Design
 
 </td>
 
 <td align="center" width="25%">
 
-### `04`
+**GIT + GITHUB**
 
-**Git / GitHub**
-
-Version control
+Version Control
+Projects
 Collaboration
 
 </td>
@@ -140,148 +164,48 @@ Collaboration
 
 ---
 
-## `> TOOLCHAIN --status`
+## `03 // CURRENTLY_LEARNING`
 
 <div align="center">
 
-|       Tool       | Purpose                         |
-| :--------------: | :------------------------------ |
-|   🐙 **GitHub**  | Version control & collaboration |
-|  📝 **VS Code**  | Development environment         |
-|   🎨 **Figma**   | Interface & product design      |
-|    🧩 **Git**    | Source control                  |
-|   🐍 **Python**  | Automation, data & logic        |
-| ⚡ **JavaScript** | Web development                 |
-|   🌐 **HTML5**   | Web structure                   |
-|    🎨 **CSS3**   | Styling & responsive design     |
-
-</div>
-
----
-
-## `> PROJECTS --execute`
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_PROJETO_1&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_PROJETO_2&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_PROJETO_3&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_PROJETO_4&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9" />
-</a>
-
-</div>
-
-> Replace `SEU_PROJETO_1`, `SEU_PROJETO_2`, etc. with your actual repositories.
-
----
-
-## `> CURRENT_MISSION`
-
-```console
+```text
 ┌──────────────────────────────────────────────────────────────┐
-│                    RUANNEOS // TERMINAL                     │
+│                     LEARNING.PROTOCOL                        │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  [✓] Strengthen programming fundamentals                    │
-│  [✓] Build real-world technology projects                    │
-│  [→] Improve JavaScript                                     │
-│  [→] Expand Python & data skills                            │
-│  [→] Explore Artificial Intelligence                         │
-│  [→] Learn software engineering                             │
-│  [→] Transform ideas into products                           │
+│  [████████████████░░░░] JavaScript                           │
+│  [██████████████░░░░░░] Python                               │
+│  [████████████░░░░░░░░] Data                                │
+│  [██████████░░░░░░░░░░] Artificial Intelligence              │
+│  [████████░░░░░░░░░░░░] Software Engineering                  │
 │                                                              │
-│  STATUS: DEVELOPMENT MODE                                    │
-│  NEXT_OBJECTIVE: BUILD SOMETHING USEFUL                     │
+│  MODE: CONTINUOUS LEARNING                                   │
+│  TARGET: BUILD REAL SOLUTIONS                                │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
 
-## `> GITHUB --analytics`
+## `04 // PROJECTS`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9"/>
-
-</div>
+### `SELECTED SYSTEMS`
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## `> ACHIEVEMENTS --unlock`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
----
-
-## `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-
-</div>
-
----
-
-## `> CONNECT --open_channels`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9d" />
+<a href="https://github.com/SEU_USUARIO/SEU_PROJETO_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_PROJETO_1&hide_border=true&bg_color=07111F&title_color=16C7B7&icon_color=7C6AFF&text_color=E8F1F5"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9d" />
+<a href="https://github.com/SEU_USUARIO/SEU_PROJETO_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_PROJETO_2&hide_border=true&bg_color=07111F&title_color=16C7B7&icon_color=7C6AFF&text_color=E8F1F5"/>
 </a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9d" />
-</a>
-
-</div>
 
 <br>
 
-<div align="center">
-
-### `> Let's build technology that makes sense.`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:111827,100:0d1117&height=120&section=footer"/>
-
-<sub>© 2026 Ruanne Josefa • Built with code, curiosity and purpose.</sub>
-
-</div>
+<a href="https://github.com/SEU_USUARIO/SEU_PROJETO_3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_PROJETO_3&hide_border=true&bg_color=07111F&tit_
