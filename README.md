@@ -195,7 +195,6 @@ alt="Git, GitHub, VS Code e Figma"
 |    🎨 **Figma**   | Interface e design de produtos               |
 
 ---
-
 # ✦ No que estou
 
 <div align="center">
