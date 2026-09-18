@@ -196,7 +196,7 @@ alt="Git, GitHub, VS Code e Figma"
 
 ---
 
-# ✦ No que estou focada
+# ✦ No que estou
 
 <div align="center">
 
