@@ -1,81 +1,96 @@
 <div align="center">
 
-# RUANNE JOSEFA
-
-### Technology · Data · Innovation · Impact
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,35:0B2533,70:16C7B7,100:7C6AFF&height=270&section=header&text=RUANNE%20JOSEFA&fontSize=52&fontColor=E8F1F5&fontAlignY=38&desc=Tecnologia%20%C2%B7%20Dados%20%C2%B7%20Inova%C3%A7%C3%A3o%20%C2%B7%20Impacto&descAlignY=58&descSize=18&descColor=E8F1F5&animation=fadeIn"
+width="100%"
+alt="Banner de Ruanne Josefa"
+/>
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=16C7B7&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Ruanne+Josefa.;I+build+with+code+and+curiosity.;Technology+%7C+Data+%7C+Innovation;Learning+to+build+useful+solutions.;Technology+with+purpose."
-  alt="Typing Animation"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=16C7B7&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+eu+sou+Ruanne+Josefa.;Eu+construo+com+c%C3%B3digo+e+curiosidade.;JavaScript+%7C+Python+%7C+HTML+%7C+CSS;Tecnologia+com+prop%C3%B3sito.;Sempre+aprendendo.+Sempre+construindo."
+alt="Animação de apresentação"
 />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/JavaScript-07111F?style=for-the-badge&logo=javascript&logoColor=16C7B7">
-<img src="https://img.shields.io/badge/Python-07111F?style=for-the-badge&logo=python&logoColor=16C7B7">
-<img src="https://img.shields.io/badge/HTML5-07111F?style=for-the-badge&logo=html5&logoColor=16C7B7">
-<img src="https://img.shields.io/badge/CSS3-07111F?style=for-the-badge&logo=css3&logoColor=16C7B7">
+<img src="https://img.shields.io/badge/JavaScript-07111F?style=for-the-badge&logo=javascript&logoColor=16C7B7" alt="JavaScript">
+
+<img src="https://img.shields.io/badge/Python-07111F?style=for-the-badge&logo=python&logoColor=16C7B7" alt="Python">
+
+<img src="https://img.shields.io/badge/HTML5-07111F?style=for-the-badge&logo=html5&logoColor=16C7B7" alt="HTML5">
+
+<img src="https://img.shields.io/badge/CSS3-07111F?style=for-the-badge&logo=css3&logoColor=16C7B7" alt="CSS3">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Technology-16C7B7?style=flat-square&labelColor=07111F">
-<img src="https://img.shields.io/badge/Data-16C7B7?style=flat-square&labelColor=07111F">
-<img src="https://img.shields.io/badge/Innovation-7C6AFF?style=flat-square&labelColor=07111F">
-<img src="https://img.shields.io/badge/Impact-7C6AFF?style=flat-square&labelColor=07111F">
+<img src="https://img.shields.io/badge/TECNOLOGIA-16C7B7?style=flat-square&labelColor=07111F" alt="Tecnologia">
+
+<img src="https://img.shields.io/badge/DADOS-16C7B7?style=flat-square&labelColor=07111F" alt="Dados">
+
+<img src="https://img.shields.io/badge/INOVAÇÃO-7C6AFF?style=flat-square&labelColor=07111F" alt="Inovação">
+
+<img src="https://img.shields.io/badge/IMPACTO-7C6AFF?style=flat-square&labelColor=07111F" alt="Impacto">
 
 </div>
 
 ---
 
-## ✦ About Me
+# ✦ Sobre mim
 
 <table>
 <tr>
 
 <td width="62%" valign="top">
 
-I'm **Ruanne Josefa**, a technology student interested in the intersection between **programming, data, artificial intelligence, innovation and real-world problems**.
+Olá! Eu sou **Ruanne Josefa**, estudante interessada na interseção entre **tecnologia, dados, inovação e problemas do mundo real**.
 
-My interest in technology started with curiosity: understanding how things work, identifying problems and discovering how technology can transform ideas into practical solutions.
+Minha relação com a tecnologia nasceu da curiosidade de entender como as coisas funcionam, identificar problemas e descobrir como o conhecimento técnico pode ser transformado em soluções.
 
-Currently, I'm developing my technical foundation in:
+Atualmente, estou desenvolvendo minha base em:
 
-- Programming
-- Web development
-- Python
-- Data
-- Artificial Intelligence
-- Software engineering
-- Product development
-- Problem solving
+* Programação
+* Desenvolvimento web
+* Python
+* Dados
+* Inteligência Artificial
+* Engenharia de software
+* Desenvolvimento de produtos
+* Resolução de problemas
 
-I enjoy learning by building.
+Gosto de aprender **construindo**.
 
-For me, technology is not only about writing code. It is about understanding the problem behind the code and creating something that can actually be useful.
+Para mim, tecnologia não é apenas escrever código. É compreender o problema por trás do código e criar algo que possa ser realmente útil.
+
+<br>
+
+**Curiosidade → Conhecimento → Construção → Impacto**
 
 </td>
 
 <td width="38%" align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=javascript,python,html,css&theme=dark"
-  width="220"
->
+src="https://skillicons.dev/icons?i=javascript,python,html,css&theme=dark"
+width="220"
+alt="Tecnologias"
+/>
 
 <br><br>
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"
-  width="220"
->
+src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"
+width="220"
+alt="Ferramentas"
+/>
 
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/LEARNING-16C7B7?style=for-the-badge&labelColor=07111F"
->
+src="https://img.shields.io/badge/EM_APRENDIZADO-16C7B7?style=for-the-badge&labelColor=07111F"
+alt="Em aprendizado"
+/>
 
 </td>
 
@@ -84,7 +99,7 @@ For me, technology is not only about writing code. It is about understanding the
 
 ---
 
-# ✦ My Approach
+# ✦ Minha abordagem
 
 <div align="center">
 
@@ -96,9 +111,9 @@ For me, technology is not only about writing code. It is about understanding the
 
 ### 01
 
-**UNDERSTAND**
+## ENTENDER
 
-Understand the problem, context and people involved.
+Compreender o problema, o contexto e as pessoas envolvidas.
 
 </td>
 
@@ -106,9 +121,9 @@ Understand the problem, context and people involved.
 
 ### 02
 
-**LEARN**
+## APRENDER
 
-Research, experiment and develop the necessary technical knowledge.
+Pesquisar, experimentar e desenvolver o conhecimento necessário.
 
 </td>
 
@@ -116,9 +131,9 @@ Research, experiment and develop the necessary technical knowledge.
 
 ### 03
 
-**BUILD**
+## CONSTRUIR
 
-Transform ideas into functional prototypes and solutions.
+Transformar ideias em protótipos e soluções funcionais.
 
 </td>
 
@@ -126,9 +141,9 @@ Transform ideas into functional prototypes and solutions.
 
 ### 04
 
-**ITERATE**
+## ITERAR
 
-Test, learn from mistakes and continuously improve.
+Testar, aprender com os erros e melhorar continuamente.
 
 </td>
 
@@ -140,52 +155,58 @@ Test, learn from mistakes and continuously improve.
 
 ---
 
-# ✦ Technology Stack
+# ✦ Tecnologias
 
 <div align="center">
 
-### Languages & Web
+### Linguagens e Web
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=javascript,python,html,css&theme=dark">
+<img
+src="https://skillicons.dev/icons?i=javascript,python,html,css&theme=dark"
+alt="JavaScript, Python, HTML e CSS"
+/>
 
 <br><br>
 
-### Tools
+### Ferramentas
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark">
+<img
+src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"
+alt="Git, GitHub, VS Code e Figma"
+/>
 
 </div>
 
 <br>
 
-| Technology | Current focus |
-|:---:|:---|
-| 🟨 **JavaScript** | Web development, logic and interaction |
-| 🐍 **Python** | Programming, automation and data |
-| 🌐 **HTML** | Semantic web structure |
-| 🎨 **CSS** | Interfaces, styling and responsiveness |
-| 🔧 **Git** | Version control |
-| 🐙 **GitHub** | Projects, documentation and collaboration |
-| 💻 **VS Code** | Development environment |
-| 🎨 **Figma** | Interface and product design |
+|     Tecnologia    | Como estou utilizando                        |
+| :---------------: | :------------------------------------------- |
+| 🟨 **JavaScript** | Desenvolvimento web, lógica e interatividade |
+|   🐍 **Python**   | Programação, automação e dados               |
+|    🌐 **HTML**    | Estrutura semântica de páginas web           |
+|     🎨 **CSS**    | Interfaces, estilos e responsividade         |
+|     🔧 **Git**    | Controle de versão                           |
+|   🐙 **GitHub**   | Projetos, documentação e colaboração         |
+|   💻 **VS Code**  | Ambiente de desenvolvimento                  |
+|    🎨 **Figma**   | Interface e design de produtos               |
 
 ---
 
-# ✦ Current Focus
+# ✦ No que estou focada
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROGRAMMING-16C7B7?style=for-the-badge&labelColor=07111F">
+<img src="https://img.shields.io/badge/01_PROGRAMACÃO-16C7B7?style=for-the-badge&labelColor=07111F" alt="Programação">
 
-<img src="https://img.shields.io/badge/DATA-16C7B7?style=for-the-badge&labelColor=07111F">
+<img src="https://img.shields.io/badge/02_DADOS-16C7B7?style=for-the-badge&labelColor=07111F" alt="Dados">
 
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7C6AFF?style=for-the-badge&labelColor=07111F">
+<img src="https://img.shields.io/badge/03_INTELIGÊNCIA_ARTIFICIAL-7C6AFF?style=for-the-badge&labelColor=07111F" alt="Inteligência Artificial">
 
-<img src="https://img.shields.io/badge/SOFTWARE-7C6AFF?style=for-the-badge&labelColor=07111F">
+<img src="https://img.shields.io/badge/04_SOFTWARE-7C6AFF?style=for-the-badge&labelColor=07111F" alt="Software">
 
 </div>
 
@@ -197,17 +218,17 @@ Test, learn from mistakes and continuously improve.
 
 <td align="center" width="50%">
 
-### Programming
+### Programação
 
-Strengthening programming fundamentals, logic and computational thinking.
+Fortalecer fundamentos de programação, lógica e pensamento computacional.
 
 </td>
 
 <td align="center" width="50%">
 
-### Data
+### Dados
 
-Learning how data can support analysis, decision-making and solutions.
+Aprender como dados podem apoiar análises, decisões e soluções.
 
 </td>
 
@@ -217,17 +238,17 @@ Learning how data can support analysis, decision-making and solutions.
 
 <td align="center" width="50%">
 
-### Artificial Intelligence
+### Inteligência Artificial
 
-Exploring AI, intelligent systems and their practical applications.
+Explorar IA, sistemas inteligentes e suas aplicações práticas.
 
 </td>
 
 <td align="center" width="50%">
 
-### Software Engineering
+### Engenharia de Software
 
-Learning how to design, structure and build reliable software.
+Aprender a projetar, estruturar e desenvolver softwares confiáveis.
 
 </td>
 
@@ -237,17 +258,17 @@ Learning how to design, structure and build reliable software.
 
 ---
 
-# ✦ Featured Projects
+# ✦ Projetos
 
-These are some of the projects currently available in my GitHub.
+Alguns dos projetos disponíveis atualmente no meu GitHub.
 
 <div align="center">
 
 <a href="https://github.com/ruannejosefa-glitch/ruanne-josefa-portfolio">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=ruannejosefa-glitch&repo=ruanne-josefa-portfolio&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF&hide_border=true"
-  alt="Ruanne Josefa Portfolio"
+src="https://github-readme-stats.vercel.app/api/pin/?username=ruannejosefa-glitch&repo=ruanne-josefa-portfolio&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF&hide_border=true"
+alt="Projeto Ruanne Josefa Portfolio"
 />
 
 </a>
@@ -255,8 +276,8 @@ These are some of the projects currently available in my GitHub.
 <a href="https://github.com/ruannejosefa-glitch/ruanne-portfolio-completo">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=ruannejosefa-glitch&repo=ruanne-portfolio-completo&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF&hide_border=true"
-  alt="Ruanne Portfolio Completo"
+src="https://github-readme-stats.vercel.app/api/pin/?username=ruannejosefa-glitch&repo=ruanne-portfolio-completo&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF&hide_border=true"
+alt="Projeto Ruanne Portfolio Completo"
 />
 
 </a>
@@ -266,8 +287,8 @@ These are some of the projects currently available in my GitHub.
 <a href="https://github.com/ruannejosefa-glitch/Ruanne-Josefa">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=ruannejosefa-glitch&repo=Ruanne-Josefa&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF&hide_border=true"
-  alt="Ruanne Josefa GitHub"
+src="https://github-readme-stats.vercel.app/api/pin/?username=ruannejosefa-glitch&repo=Ruanne-Josefa&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF&hide_border=true"
+alt="Repositório de perfil Ruanne Josefa"
 />
 
 </a>
@@ -281,8 +302,8 @@ These are some of the projects currently available in my GitHub.
 <a href="https://github.com/ruannejosefa-glitch?tab=repositories">
 
 <img
-  src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-07111F?style=for-the-badge&logo=github&logoColor=16C7B7"
-  alt="Explore repositories"
+src="https://img.shields.io/badge/VER_TODOS_OS_REPOSITÓRIOS-07111F?style=for-the-badge&logo=github&logoColor=16C7B7"
+alt="Ver todos os repositórios"
 />
 
 </a>
@@ -291,7 +312,7 @@ These are some of the projects currently available in my GitHub.
 
 ---
 
-# ✦ What I'm Building Toward
+# ✦ Para onde estou construindo
 
 <div align="center">
 
@@ -301,25 +322,25 @@ These are some of the projects currently available in my GitHub.
 
 <td align="center" width="33%">
 
-### DATA
+### DADOS
 
-Understanding information and transforming it into insights.
-
-</td>
-
-<td align="center" width="33%">
-
-### AI
-
-Exploring intelligent technologies and their applications.
+Transformar informações em conhecimento para apoiar análises e decisões.
 
 </td>
 
 <td align="center" width="33%">
 
-### PRODUCT
+### IA
 
-Turning real problems into useful technological products.
+Explorar tecnologias inteligentes e suas aplicações.
+
+</td>
+
+<td align="center" width="33%">
+
+### PRODUTO
+
+Transformar problemas reais em produtos tecnológicos úteis.
 
 </td>
 
@@ -331,23 +352,23 @@ Turning real problems into useful technological products.
 
 ### SOFTWARE
 
-Developing strong engineering fundamentals.
+Construir uma base sólida em engenharia de software.
 
 </td>
 
 <td align="center" width="33%">
 
-### INNOVATION
+### INOVAÇÃO
 
-Connecting technology, experimentation and creativity.
+Conectar tecnologia, experimentação e criatividade.
 
 </td>
 
 <td align="center" width="33%">
 
-### IMPACT
+### IMPACTO
 
-Building technology with people and purpose in mind.
+Desenvolver tecnologia considerando pessoas, contexto e propósito.
 
 </td>
 
@@ -359,90 +380,91 @@ Building technology with people and purpose in mind.
 
 ---
 
-# ✦ GitHub Statistics
+# ✦ Estatísticas do GitHub
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ruannejosefa-glitch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF"
-  height="180"
-  alt="GitHub Statistics"
+src="https://github-readme-stats.vercel.app/api?username=ruannejosefa-glitch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF"
+height="180"
+alt="Estatísticas do GitHub"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruannejosefa-glitch&layout=compact&langs_count=8&hide_border=true&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF"
-  height="180"
-  alt="Most Used Languages"
-/>
-
-</div>
-
----
-
-# ✦ Contribution Streak
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=ruannejosefa-glitch&theme=github-dark-blue&hide_border=true&background=07111F&ring=16C7B7&fire=7C6AFF&currStreakLabel=16C7B7&sideLabels=E8F1F5&dates=8B9AA8"
-  alt="GitHub Contribution Streak"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruannejosefa-glitch&layout=compact&langs_count=8&hide_border=true&bg_color=07111F&title_color=16C7B7&text_color=E8F1F5&icon_color=7C6AFF"
+height="180"
+alt="Linguagens mais utilizadas"
 />
 
 </div>
 
 ---
 
-# ✦ Activity
+# ✦ Sequência de contribuições
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ruannejosefa-glitch&bg_color=07111F&color=16C7B7&line=16C7B7&point=7C6AFF&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub Activity Graph"
+src="https://streak-stats.demolab.com?user=ruannejosefa-glitch&theme=github-dark-blue&hide_border=true&background=07111F&ring=16C7B7&fire=7C6AFF&currStreakLabel=16C7B7&sideLabels=E8F1F5&dates=8B9AA8"
+alt="Sequência de contribuições"
 />
 
 </div>
 
 ---
 
-# ✦ GitHub Trophies
+# ✦ Atividade no GitHub
 
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=ruannejosefa-glitch&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"
-  width="100%"
-  alt="GitHub Trophies"
+src="https://github-readme-activity-graph.vercel.app/graph?username=ruannejosefa-glitch&bg_color=07111F&color=16C7B7&line=16C7B7&point=7C6AFF&area=true&hide_border=true"
+width="100%"
+alt="Gráfico de atividade no GitHub"
 />
 
 </div>
 
 ---
 
-# ✦ Contribution Snake
+# ✦ Conquistas
 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/ruannejosefa-glitch/ruannejosefa-glitch/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
+src="https://github-profile-trophy.vercel.app/?username=ruannejosefa-glitch&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"
+width="100%"
+alt="Conquistas do GitHub"
+/>
+
+</div>
+
+---
+
+# ✦ Snake de contribuições
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/ruannejosefa-glitch/ruannejosefa-glitch/output/github-contribution-grid-snake.svg"
+alt="Snake de contribuições do GitHub"
+width="100%"
+
 >
 
 </div>
 
 ---
 
-# ✦ Connect
+# ✦ Conecte-se comigo
 
 <div align="center">
 
 <a href="https://github.com/ruannejosefa-glitch">
 
 <img
-  src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=16C7B7"
-  alt="GitHub"
+src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=16C7B7"
+alt="GitHub"
 />
 
 </a>
@@ -450,8 +472,8 @@ Building technology with people and purpose in mind.
 <a href="https://www.linkedin.com/in/ruanne-josefa/">
 
 <img
-  src="https://img.shields.io/badge/LinkedIn-07111F?style=for-the-badge&logo=linkedin&logoColor=16C7B7"
-  alt="LinkedIn"
+src="https://img.shields.io/badge/LinkedIn-07111F?style=for-the-badge&logo=linkedin&logoColor=16C7B7"
+alt="LinkedIn"
 />
 
 </a>
@@ -459,26 +481,27 @@ Building technology with people and purpose in mind.
 <a href="mailto:ruanejosefa@gmail.com">
 
 <img
-  src="https://img.shields.io/badge/Email-07111F?style=for-the-badge&logo=gmail&logoColor=16C7B7"
-  alt="Email"
+src="https://img.shields.io/badge/E--mail-07111F?style=for-the-badge&logo=gmail&logoColor=16C7B7"
+alt="E-mail"
 />
 
 </a>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
-### Building technology with curiosity, purpose and impact.
+### Construindo tecnologia com curiosidade, propósito e impacto.
 
 <br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:123B4A,100:7C6AFF&height=120&section=footer"
-  width="100%"
->
+src="https://capsule-render.vercel.app/api?type=waving&color=0:7C6AFF,35:16C7B7,70:0B2533,100:07111F&height=140&section=footer"
+width="100%"
+alt="Rodapé"
+/>
 
 <br>
 
