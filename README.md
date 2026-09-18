@@ -446,13 +446,13 @@ alt="Conquistas do GitHub"
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/ruannejosefa-glitch/ruannejosefa-glitch/output/github-contribution-grid-snake.svg"
-alt="Snake de contribuições do GitHub"
-width="100%"
-
+  src="https://raw.githubusercontent.com/ruannejosefa-glitch/Ruanne-Josefa/output/github-contribution-grid-snake.svg"
+  alt="Snake de contribuições do GitHub"
+  width="100%"
 >
 
 </div>
+
 
 ---
 
