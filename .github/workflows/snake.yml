@@ -1,4 +1,4 @@
-name: Gerar Snake de Contribuições
+name: Gerar Snake
 
 on:
   schedule:
@@ -10,12 +10,12 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   gerar-snake:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Gerar animação Snake
@@ -26,10 +26,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publicar Snake
+      - name: Publicar arquivos
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
+          build_branch: output
         env:
           GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
