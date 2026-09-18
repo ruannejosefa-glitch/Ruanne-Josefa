@@ -193,10 +193,8 @@ alt="Git, GitHub, VS Code e Figma"
 |   🐙 **GitHub**   | Projetos, documentação e colaboração         |
 |   💻 **VS Code**  | Ambiente de desenvolvimento                  |
 |    🎨 **Figma**   | Interface e design de produtos               |
-
 ---
 # ✦ No que estou
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/01_PROGRAMACÃO-16C7B7?style=for-the-badge&labelColor=07111F" alt="Programação">
